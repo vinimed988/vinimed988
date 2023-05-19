@@ -1,8 +1,8 @@
 ### Hi, I'm Vinícius Medeiros
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimed988&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimed988&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmedeiros-viaconsulting&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmedeiros-viaconsulting&layout=compact&theme=dracula"/>
 </div>
 
 ## Techologies I've been using recently
